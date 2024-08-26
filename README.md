@@ -1,2 +1,2 @@
-# college-admission-form
-College Admission Form
+# This form is related to College Admission
+I developed this project using Spring MVC and Hibernate CRUD
