@@ -1,2 +1,2 @@
 # This form is related to College Admission
-I developed this project using Spring MVC and Hibernate CRUD
+I developed this project using Spring MVC and Hibernate CRUD, Please unzip the file and if you import that project in Eclipse and if you run the Application then you will get a form which asks the Student details and after filling the details, click on submit then those details will be saved in the database. We can modify the existing data and also we can delete the data from the database through Edit & Delete options which are available in the UI.
